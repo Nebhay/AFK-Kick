@@ -1,0 +1,22 @@
+{
+    "Group": "com.nebhay.afkkick",
+    "Name": "AFKKick",
+    "Version": "1.0.1",
+    "Description": "Kicks players who are AFK for more than 5 minutes.",
+    "Authors": [
+        {
+            "Name": "Nebhay"
+        }
+    ],
+    "Website": "https://github.com/nebhay/afkkick",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.nebhay.afkkick.AFKKickPlugin",
+    "IncludesAssetPack": false
+}
